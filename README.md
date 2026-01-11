@@ -11,6 +11,7 @@ Currently working in Japan and transitioning backend expertise from PHP to Java.
 - Infrastructure: Docker
 - Auth: OAuth2, Keycloak
 
+### 🚀 Featured Project
 My Daily Quest — personal web application for gamifying daily tasks within small groups (alpha version)
 🔗 https://my-daily-quest.com
 
