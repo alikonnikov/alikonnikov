@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi, I'm Aleksandr 👋
 
-<!--
-**alikonnikov/alikonnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full-Stack Engineer with 4+ years of commercial experience.
+Currently working in Japan and transitioning backend expertise from PHP to Java.
 
-Here are some ideas to get you started:
+### 🔧 Tech Focus
+- Backend: Java (Spring Boot, JPA, Hibernate), PHP
+- Frontend: React (TypeScript), Vue.js
+- APIs: REST, external system integration
+- Databases: MySQL, PostgreSQL
+- Infrastructure: Docker
+- Auth: OAuth2, Keycloak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Daily Quest — personal web application for gamifying daily tasks within small groups (alpha version)
+🔗 https://my-daily-quest.com
+
+A platform where a host can create a private group and assign daily tasks to participants.
+Users earn points for completing tasks, which can later be exchanged for rewards defined by the host.
+
+Example use case:
+A family uses the platform to gamify household responsibilities — parents create tasks for children (cleaning, homework, shopping), assign point values, and set rewards such as movie nights or gifts.
+
+Technical highlights:
+
+Backend built with Java 17 + Spring Boot
+
+REST API with layered architecture (controllers / services / repositories)
+
+JPA entities with relational mappings
+
+Environment-based configuration using Spring profiles
+
+Frontend built with React + TypeScript
+
+Deployed to production (alpha)
+
+🚧 Public release planned soon
+
+Source code is private. Architecture and implementation details can be discussed during interviews.
+### 🧩 Open Source
+- Contributor to **Concrete CMS** open-source framework  
+  ~20 contributions, ~70% merged (bug fixes and improvements)
+
+### 🌏 Location & Status
+- Based in Tokyo, Japan
+- Valid Japanese work visa (3 years)
+- Open to Backend / Full-Stack (Backend-focused) roles
