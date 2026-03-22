@@ -4,7 +4,7 @@ Backend-focused Full-Stack Engineer with 4+ years of commercial experience.
 Currently working in Japan and transitioning backend expertise from PHP to Java.
 
 ### 🔧 Tech Focus
-- Backend: Java (Spring Boot, JPA, Hibernate), PHP
+- Backend: Python, Java (Spring Boot, JPA, Hibernate), PHP
 - Frontend: React (TypeScript), Vue.js
 - APIs: REST, external system integration
 - Databases: MySQL, PostgreSQL
